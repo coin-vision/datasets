@@ -31,7 +31,7 @@ Micro dataset has 400 classes with 30-100 images for each class
 
 Medium dataset has 4,000 classes with 3-100 images for each class
 
-<img src="images/medium-dataset-histogram.png" width="400px">
+<img src="images/medium-dataset-historgam.png" width="400px">
 
 [Download Medium dataset](https://s3.amazonaws.com/coin-vision/medium-4000-20190205.csv)
 
