@@ -43,12 +43,14 @@ Complete dataset has 23,695 classes with 1-1000+ images for each class
 A lot of classes (16K+) have one image per class only.
 About 100 classes have 100+ images per class.
 
-<img src="images/complete-dataset-histogram-1-10.png" width="300px">
-<img src="images/complete-dataset-histogram-10-100.png" width="300px">
-<img src="images/complete-dataset-histogram-100-and-more.png" width="300px">
+<img src="images/complete-dataset-histogram-1-10.png" width="400px">
+<img src="images/complete-dataset-histogram-10-100.png" width="400px">
+<img src="images/complete-dataset-histogram-100-and-more.png" width="400px">
 
 [Download Complete dataset](https://s3.amazonaws.com/coin-vision/complete-24000-20190205.csv)
 
+
+[dataset-info.ipynb](https://github.com/coin-vision/datasets/blob/master/dataset-info.ipynb) can be used for more detailed dataset evaluation.
 
 Dependencies used in Jupyter Notebook
 ```
