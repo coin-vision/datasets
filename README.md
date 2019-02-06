@@ -12,7 +12,7 @@
 
 Micro dataset has 25 classes with 50-60 images for each class
 
-![Alt](images/micro-dataset-histogram.png =300x)
+<img src="images/micro-dataset-histogram.png" width="400px">
 
 [Download Micro dataset](https://s3.amazonaws.com/coin-vision/micro-25-20190204.csv)
 
@@ -21,7 +21,8 @@ Micro dataset has 25 classes with 50-60 images for each class
 
 Micro dataset has 400 classes with 30-100 images for each class
 
-![Alt](images/mini-dataset-histogram.png =300x)
+<img src="images/mini-dataset-histogram.png" width="400px">
+
 
 [Download Mini dataset](https://s3.amazonaws.com/coin-vision/mini-400-20190205.csv)
 
@@ -30,7 +31,7 @@ Micro dataset has 400 classes with 30-100 images for each class
 
 Medium dataset has 4,000 classes with 3-100 images for each class
 
-![Alt](images/medium-dataset-histogram.png =300x)
+<img src="images/medium-dataset-histogram.png" width="400px">
 
 [Download Medium dataset](https://s3.amazonaws.com/coin-vision/medium-4000-20190205.csv)
 
@@ -44,7 +45,7 @@ About 100 classes have 100+ images per class.
 
 <img src="images/complete-dataset-histogram-1-10.png" width="300px">
 <img src="images/complete-dataset-histogram-10-100.png" width="300px">
-<img src="images/complete-dataset-histogram-100-amd-more.png" width="300px">
+<img src="images/complete-dataset-histogram-100-and-more.png" width="300px">
 
 [Download Complete dataset](https://s3.amazonaws.com/coin-vision/complete-24000-20190205.csv)
 
